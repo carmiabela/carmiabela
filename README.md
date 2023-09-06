@@ -18,7 +18,7 @@ Looking back on my old projects, I found this game I made on scratch and thought
 <a href="https://scratch.mit.edu/projects/158227485/">Find My Parents game</a>
 
 
-# CodeMadeWhenLearningPython 2020-2025
+# CodeIMadeWhenLearningPython 2020-2025
 
 Looking back on my old projects, I found this game I made on scratch and thought it was an absolute gem. When I was about 9, I made this interactive story game with about 6 levels, each one getting harder. The aim of this game is to overcome each challenge in order to rescue your parents.
  
