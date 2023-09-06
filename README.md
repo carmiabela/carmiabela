@@ -20,7 +20,7 @@ Looking back on my old projects, I found this game I made on scratch and thought
 
 # CodeIMadeWhenLearningPython 2020-2025
 
-![https://imgur.com/05vJGK3](https://i.imgur.com/05vJGK3.png)
+![https://imgur.com/05vJGK3](https://i.imgur.com/05vJGK3.png) width="300"/>
 
 This is some of the code I've made whilst learning to use python!
  
