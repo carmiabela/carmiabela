@@ -20,7 +20,7 @@ Looking back on my old projects, I found this game I made on scratch and thought
 
 # CodeIMadeWhenLearningPython 2020-2025
 
-Looking back on my old projects, I found this game I made on scratch and thought it was an absolute gem. When I was about 9, I made this interactive story game with about 6 levels, each one getting harder. The aim of this game is to overcome each challenge in order to rescue your parents.
+This is some of the code I've made whilst learning to use python!
  
 <a href="https://github.com/carmiabela/LearningPython">Learning Python </a>
 
