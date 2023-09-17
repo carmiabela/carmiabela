@@ -1,5 +1,5 @@
 
-🌷I'm currently working on CS50🌷
+🌷I'm currently studying🌷
 # Coding Projects
 # Find-the-remote 2019
 
