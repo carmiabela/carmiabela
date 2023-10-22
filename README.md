@@ -28,7 +28,7 @@ This is some of the code I've made while learning to use Python!
 
 # CodeIMadeRelatedToMath 2020-2025
 
-<img src="https://i.imgur.com/05vJGK3.png" width="300"/>
+<img src="//imgur.com/2cFlr3Q" width="300"/>
 
 This is some of the code I've made related to math!
 
