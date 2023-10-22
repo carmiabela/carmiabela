@@ -28,8 +28,6 @@ This is some of the code I've made while learning to use Python!
 
 # CodeIMadeRelatedToMath 2020-2025
 
-<img src="//imgur.com/2cFlr3Q" width="300"/>
-
 This is some of the code I've made related to math!
 
 <a href="https://github.com/carmiabela/Math-Projects">Math related code </a>
