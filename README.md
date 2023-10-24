@@ -31,5 +31,6 @@ This is some of the code I've made while learning to use Python!
 This is some of the code I've made related to math!
 
 <a href="https://github.com/carmiabela/Math-Projects">Repository of Math related code </a>
-<a href="https://replit.com/join/tlgsuutorb-carmellaabela1">Code for matrices addition, subtraction, multiplication and determinanats</a>
+
+<a href="https://replit.com/join/tlgsuutorb-carmellaabela1">Code for matrices addition, subtraction, multiplication, determinants and inverse</a>
 
