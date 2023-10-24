@@ -41,10 +41,9 @@
 
 ## CodeIMadeRelatedToMath 2023-2025
 
-
 <p>
  
- <img src="https://imgur.com/zi4CG3W.png" width="250" align="right" hspace="10" >
+ <img src="https://imgur.com/ypUN1BK.png" width="250" align="right" hspace="10" >
 
  
  This is some of the code I've made related to math! 
