@@ -37,9 +37,7 @@ This is some of the code I've made while learning to use Python!
 
 # CodeIMadeRelatedToMath 2023-2025
 
-This is some of the code I've made related to math!
-
-<a href="https://github.com/carmiabela/Math-Projects">Math related code Repository</a>
+This is some of the code I've made related to math! [Math-related code Repository](https://github.com/carmiabela/Math-Projects).
 
 <a href="https://replit.com/join/tlgsuutorb-carmellaabela1">Code for addition, subtraction, multiplication, determinants and inverse of matrices</a>
 
