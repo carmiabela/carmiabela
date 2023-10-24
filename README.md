@@ -24,13 +24,13 @@ Looking back on my old projects, I found this game I made on scratch and thought
 
 This is some of the code I've made while learning to use Python!
  
-<a href="https://github.com/carmiabela/LearningPython">Learning Python </a>
+<a href="https://github.com/carmiabela/LearningPython">Learning Python Repository</a>
 
 # CodeIMadeRelatedToMath 2023-2025
 
 This is some of the code I've made related to math!
 
-<a href="https://github.com/carmiabela/Math-Projects">Repository of Math related code </a>
+<a href="https://github.com/carmiabela/Math-Projects">Math related code Repository</a>
 
 <a href="https://replit.com/join/tlgsuutorb-carmellaabela1">Code for addition, subtraction, multiplication, determinants and inverse of matrices</a>
 
