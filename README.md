@@ -12,7 +12,7 @@
  [Swift Playgrounds](https://github.com/carmiabela/Find-the-remote/blob/main/Find%20the%20Remote.playgroundbook.zip?raw=true)
  
 </p>
-
+<br> 
 
 ## TeachingPrimaryGirlsToCode 2023
 <p>
@@ -27,6 +27,7 @@
 [WEEK 2 of teaching girls coding 13/9/2023](https://docs.google.com/presentation/d/14DGuj4aoxuhAj0Dg9x3ouGnAf1e8B5asmwVqLjRByjE/edit).
 
 </p>
+<br> 
 
 ## CodeIMadeWhenLearningPython 2020-2025
 <p>
@@ -37,7 +38,8 @@
  <a href="https://github.com/carmiabela/LearningPython">Learning Python Repository here>> </a>
 
 </p>
----
+<br> 
+
 
 ## CodeIMadeRelatedToMath 2023-2025
 
@@ -53,4 +55,5 @@
  <a href="https://replit.com/join/tlgsuutorb-carmellaabela1">Code for addition, subtraction, multiplication, determinants and inverse of matrices</a>
 
 </p>
+<br> 
 
