@@ -2,10 +2,10 @@
 🌷I'm currently studying🌷
 # Coding Projects
 
-## Find-the-remote 2019
+## Find-the-remote 
 <p>
  <img src="https://i.imgur.com/MHbJmtH.png" width="250" align="right" hspace="10" >
- This is a simple swift game I made in year 8; it was featured as part of my school's Apple distinguished video.
+ This is a simple swift game I made; it was featured as part of my school's Apple distinguished video.
  A Character will tell you that they've their lost remote and you'll move objects in the room to find it.
 
  
