@@ -16,7 +16,7 @@
 
 ## TeachingPrimaryGirlsToCode 2023
 <p>
- <img src="https://imgur.com/NRjGAgG.png" width="300" align="right" hspace="10" >
+ <img src="https://imgur.com/NRjGAgG.png" width="250" align="right" hspace="10" >
  
  In this repository, I will add coding presentation that I've created. These slides will be those of which I've used to teach young girls in years 4-6 how to code using scratch. At the end of this young they will be all signing up for and submitting their projects into a coding competition called [IKCC scratch](https://www.ikcc.info/).
  
