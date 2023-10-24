@@ -40,7 +40,6 @@
 </p>
 <br> 
 
-
 ## CodeIMadeRelatedToMath 2023-2025
 
 <p>
