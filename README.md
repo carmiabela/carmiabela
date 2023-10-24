@@ -32,5 +32,5 @@ This is some of the code I've made related to math!
 
 <a href="https://github.com/carmiabela/Math-Projects">Repository of Math related code </a>
 
-<a href="https://replit.com/join/tlgsuutorb-carmellaabela1">Code for matrices addition, subtraction, multiplication, determinants and inverse</a>
+<a href="https://replit.com/join/tlgsuutorb-carmellaabela1">Code for addition, subtraction, multiplication, determinants and inverse of matrices</a>
 
