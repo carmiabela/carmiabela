@@ -26,6 +26,8 @@
 
 [WEEK 2 of teaching girls coding 13/9/2023](https://docs.google.com/presentation/d/14DGuj4aoxuhAj0Dg9x3ouGnAf1e8B5asmwVqLjRByjE/edit).
 
+[WEEK 3 of teaching girls coding 13/9/2023](https://docs.google.com/presentation/d/1rM494PwVEKtAC1CFtD2oHwUBKnzxhMI-W63Tv1GFVqQ/edit?usp=sharing).
+
 </p>
 <br> 
 
