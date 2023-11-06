@@ -45,8 +45,7 @@
 <br> 
 <br> 
 <br> 
-<br> 
-<br> 
+
 
 # General Related to Coding
 
