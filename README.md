@@ -65,6 +65,8 @@
 
 [WEEK 4 of teaching girls coding 8/11/2023](https://docs.google.com/presentation/d/1oCpt4wVA0EgGsYZpg0hh-Ez-FhtnuuY5aJS3AMHmLuM/edit?usp=sharing).
 
+[WEEK 5 of teaching girls coding 15/11/2023](https://docs.google.com/presentation/d/1BDoHMZxjxrM_9zNa-zqX3wQqrRyxEeG4GT_zIb6AQkY/edit?usp=sharing).
+
 </p>
 <br> 
 
